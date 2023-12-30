@@ -1,75 +1,16 @@
-# Nuxt 3 Minimal Starterぞ
+# Nuxt 3
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Todo管理アプリを作成して挙動を学ぶ。Vuetifyも使ってます。
 
-## Setup
+○一覧画面
+<img width="1434" alt="スクリーンショット 2023-12-31 8 06 30" src="https://github.com/DJMasaru/todo_app_nuxt3/assets/91363928/c1ecde41-83a3-4d11-ba58-14be38efb5df">
 
-Make sure to install the dependencies:
+○投稿画面
+<img width="1440" alt="スクリーンショット 2023-12-31 8 06 15" src="https://github.com/DJMasaru/todo_app_nuxt3/assets/91363928/973e5ec0-c61a-42f6-b973-2a64b08478f1">
 
-```bash
-# npm
-npm install
+○編集モーダル画面
+<img width="1432" alt="スクリーンショット 2023-12-31 8 06 46" src="https://github.com/DJMasaru/todo_app_nuxt3/assets/91363928/dd90c993-159f-4dbf-9c7b-35f4dde6a071">
 
-# pnpm
-pnpm install
+○削除モーダル画面
+<img width="1440" alt="スクリーンショット 2023-12-31 8 07 01" src="https://github.com/DJMasaru/todo_app_nuxt3/assets/91363928/5c48bd8e-e99f-43a8-aee9-c1a576974b14">
 
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
